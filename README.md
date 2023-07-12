@@ -1,0 +1,2 @@
+-  Hi, I’m ilhan and i'm a Sophomore Computer Science Student.
+- 🌱 I’m currently learning Javascript.
